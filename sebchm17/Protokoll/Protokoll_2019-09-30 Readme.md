@@ -20,4 +20,14 @@
 Github ist ein Versionsverwaltungssystem und der Zweck ist, dass Dokumente nicht so einfach verschwinden. Natürlich wird jede Änderung an Dokumenten genau aufgezeichnet. Solche Versionsverwaltungssysteme ist die Vorraussetzung für eine gute Gruppenarbeit. Am Anfang ist es wichtig sich rechtlich mit einer Liecense abzusichern, da diese Datei ein jeder lesen kann.
 Github kostet erst etwas wenn die Dokumente privat bleiben sollen.
   
-  ###Überschriften
+### Überschriften
+
+#h1     größte Überschrift
+##h2
+###h3
+####h4
+#####h5
+######h6
+
+Es können bis zu 6 verschidene Überschriften gewählt werden indem man ein hash davor setzt.
+  
