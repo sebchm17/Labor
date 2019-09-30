@@ -9,7 +9,7 @@ Liste:
   * Renault 
   
 Länder sortiert nach Einwohnerzahl:
- 1.Deutschland
- 2.Tschechien
- 3.Österreich
- 4.Slowenien
+ 1. Deutschland
+ 2. Tschechien
+ 3. Österreich
+ 4. Slowenien
