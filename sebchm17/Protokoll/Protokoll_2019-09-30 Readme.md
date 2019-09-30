@@ -9,7 +9,7 @@
 ## Inhaltsverzeichnis
 1. [Einführung Github](#einführung-github)
    * [Überschriften](#überschriften)
-   * [Link einfügen](#link-einfügen)
+   * [Inhaltsverzeichnis erstellen](#inhaltsverzeichnis-erstellen)
    * [Fett/Kursiv schreiben](#fett/kursiv-schrieben)
    * [Liste erstellen](#liste-erstellen)
 2. [Git](#git)
